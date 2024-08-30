@@ -1,0 +1,21 @@
+CineSearch/
+│
+├── public/
+│   ├── index.html
+│   └── style.css
+│
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── MovieCard.js
+│   │   ├── MovieList.js
+│   │   └── SearchBar.js
+│   └── api/
+│       └── movieApi.js
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── webpack.config.js (if using webpack)
